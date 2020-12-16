@@ -1,7 +1,7 @@
 # SIGLA url: Alduxsan.pythonanywhere.com
 ### Sistema de Gestion para Logistica Agraria
 
-##### Éste sistema web de gestión fue diseñada para mejorar la eficiencia de los procesos que se dan en el marco de los negocios de acopio cerealero en la zona oeste del Uruguay.
+##### Éste sistema web de gestión fue diseñado para mejorar la eficiencia de los procesos que se dan en el marco de los negocios de acopio cerealero en la zona oeste del Uruguay.
 
 El proceso se puede resumir en unos pocos participantes y fases: 
 
